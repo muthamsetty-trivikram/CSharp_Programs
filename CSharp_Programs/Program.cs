@@ -126,7 +126,10 @@ namespace EvenOdd
             //}
 
             //Factorial
-            Factorial object30 = new Factorial();
+            //Factorial object30 = new Factorial();
+
+            //Prime Number
+            PrimeNumber object31 = new PrimeNumber();
 
         }
 
